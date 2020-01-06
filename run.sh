@@ -1,0 +1,2 @@
+EXPORT CUDA_VISIBLE_DEVICE = 1
+python main.py --cross_val False --fold 3 --result_path '/media/xiaoxiao/Basket III/ABIDE_3DConv_Classification_pytorch/results_fold3' --n_val_samples 100 --batch_size 100 --win_size 5

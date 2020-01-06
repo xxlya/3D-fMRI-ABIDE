@@ -1,0 +1,1 @@
+This code archietecture is borrowed from https://github.com/cs230-stanford/cs230-code-examples/tree/master/pytorch/vision.
