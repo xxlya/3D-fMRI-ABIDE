@@ -1,1 +1,1 @@
-This code archietecture is borrowed from https://github.com/cs230-stanford/cs230-code-examples/tree/master/pytorch/vision.
+Implementation of https://ieeexplore.ieee.org/document/8363798
